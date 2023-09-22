@@ -1,3 +1,9 @@
+# Foundry Fund Me
+
+This is a Foundry FundMe SmartContract 
+
+## Already Deployed on Sepolia TestNet  ``` 0x1BEAa42ca6d5cEd3f473aAFF6EE5B9A465092366```
+
 
 - [Foundry Fund Me](#foundry-fund-me)
 - [Getting Started](#getting-started)
@@ -148,7 +154,5 @@ forge fmt
 # Thank you!
 
 
-[![Veer Chheda Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-chheda-988318246/)
 
-
-```
+[![Veer Chheda](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-chheda-988318246/)
